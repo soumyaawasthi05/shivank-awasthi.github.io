@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to THE TECHNICAL GRAPVINE
 
-You can use the [editor on GitHub](https://github.com/shivank-awasthi/shivank-awasthi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Technical Grapevine is a collection of my blogs. I blog about things which I feel are less known to people or either are not known exactly the way they are.
 
 ### Markdown
 
